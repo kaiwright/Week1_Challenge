@@ -1,3 +1,5 @@
+
+/* General Page Styling */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +10,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header styling */
+/* Changed element names to fit with HTML changes */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,6 +45,7 @@ body {
     margin-left: 25px;
 }
 
+/* Webpage blocks styling */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -129,6 +134,7 @@ p {
     font-size: 36px;
 }
 
+/* Sidebar Styling */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -188,6 +194,8 @@ p {
     max-width: 150px;
 }
 
+/* Footer styling */
+/* Changed h2 to h3 to fit with HTML changes */
 .footer {
     padding: 30px;
     clear: both;
