@@ -7,7 +7,7 @@ The aim of this project was to make the existing Horiseon website more accessibl
 ## Installation
 
 Website deploys at live URL
-Link: 
+Link: https://kaiwright.github.io/Week1_Challenge/
 
 ## Usage
 
