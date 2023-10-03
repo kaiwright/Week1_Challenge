@@ -14,9 +14,9 @@ Link:
 The website deploys from the link above. The website looks as it did pre-refactor, however it is now much easier to use with assistive technology.
 Each link leads to the section on the website. 
 
-![Picture of the first section of Horiseon website](.assets/images/horiseon1.PNG)
+![Picture of the first section of Horiseon website](assets/images/horiseon1.PNG)
 
-![Picture of the second section of Horiseon website](.assets/images/horiseon2.PNG)
+![Picture of the second section of Horiseon website](assets/images/horiseon2.PNG)
 
 ## License
 
