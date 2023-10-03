@@ -45,7 +45,7 @@ body {
     margin-left: 25px;
 }
 
-/* Webpage blocks styling */
+/* Website blocks styling */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -135,6 +135,7 @@ p {
 }
 
 /* Sidebar Styling */
+/* Moved this section below website block styling to fit with HTML file's structure */
 .benefits {
     margin-right: 20px;
     padding: 20px;
